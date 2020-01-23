@@ -17,6 +17,7 @@
 		74314CAE23D78E5C0040DEC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74314CAC23D78E5C0040DEC2 /* LaunchScreen.storyboard */; };
 		74314CB923D78E5C0040DEC2 /* ApplePiesy_s_adventureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74314CB823D78E5C0040DEC2 /* ApplePiesy_s_adventureTests.swift */; };
 		74314CC423D78E5C0040DEC2 /* ApplePiesy_s_adventureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74314CC323D78E5C0040DEC2 /* ApplePiesy_s_adventureUITests.swift */; };
+		747691B523DA50AE0058682E /* BulletSoundEffect.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 747691B423DA50AE0058682E /* BulletSoundEffect.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		74314CBF23D78E5C0040DEC2 /* ApplePiesy's adventureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ApplePiesy's adventureUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74314CC323D78E5C0040DEC2 /* ApplePiesy_s_adventureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplePiesy_s_adventureUITests.swift; sourceTree = "<group>"; };
 		74314CC523D78E5C0040DEC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		747691B423DA50AE0058682E /* BulletSoundEffect.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BulletSoundEffect.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				74314CA123D78E580040DEC2 /* Actions.sks */,
 				74314CA323D78E580040DEC2 /* GameScene.swift */,
 				74314CA523D78E580040DEC2 /* GameViewController.swift */,
+				747691B423DA50AE0058682E /* BulletSoundEffect.mp3 */,
 				74314CA723D78E580040DEC2 /* Main.storyboard */,
 				74314CAA23D78E5C0040DEC2 /* Assets.xcassets */,
 				74314CAC23D78E5C0040DEC2 /* LaunchScreen.storyboard */,
@@ -240,6 +243,7 @@
 			files = (
 				74314CA923D78E580040DEC2 /* Main.storyboard in Resources */,
 				74314CA023D78E580040DEC2 /* GameScene.sks in Resources */,
+				747691B523DA50AE0058682E /* BulletSoundEffect.mp3 in Resources */,
 				74314CAB23D78E5C0040DEC2 /* Assets.xcassets in Resources */,
 				74314CAE23D78E5C0040DEC2 /* LaunchScreen.storyboard in Resources */,
 				74314CA223D78E580040DEC2 /* Actions.sks in Resources */,
